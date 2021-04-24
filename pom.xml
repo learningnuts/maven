@@ -2,14 +2,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hcl</groupId>
   <artifactId>project4</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   
   <dependencies>
       <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
-      <scope>test</scope>
+    
    	 </dependency>
   </dependencies>
   
