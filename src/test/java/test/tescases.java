@@ -1,11 +1,9 @@
-package project4;
-
-import static org.junit.Assert.*;
+package test;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-public class projecttest {
+public class tescases {
 
 	@Test
 	public void SUM() {
@@ -38,5 +36,6 @@ public class projecttest {
 		int b = 20;
 		Assert.assertEquals(2, b/a);
 	}
+
 
 }
