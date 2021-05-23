@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hcl</groupId>
   <artifactId>project4</artifactId>
-  <version>1.0.8</version>
+  <version>1.0.3</version>
   
   <dependencies>
 	<dependency>
@@ -24,11 +24,11 @@
 <distributionManagement>
     <snapshotRepository>
         <id>hcltest</id>
-        <url>http://10.128.0.7:8081/repository/hcltest/</url>
+        <url>http://35.224.161.220:8081/repository/hcltest/</url>
     </snapshotRepository>
     <repository>
         <id>hclrelease</id>
-        <url>http://10.128.0.7:8081/repository/hclrelease/</url>
+        <url>http://35.224.161.220:8081/repository/hclrelease/</url>
     </repository>
 </distributionManagement> 
 
@@ -36,11 +36,11 @@
 <repositories>
     <repository>
         <id>hcltest</id>
-        <url>http://10.128.0.7:8081/repository/hcltest/</url>
+        <url>http://35.224.161.220:8081/repository/hcltest/</url>
     </repository>
     <repository>
         <id>hclrelease</id>
-        <url>http://10.128.0.7:8081/repository/hclrelease/</url>
+        <url>http://35.224.161.220:8081/repository/hclrelease/</url>
     </repository>
 </repositories>
 </project>
